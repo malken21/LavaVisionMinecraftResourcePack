@@ -1,0 +1,18 @@
+﻿{
+  "format_version": 2,
+  "header": {
+    "name": "マグマの中がよーく見える!!",
+    "description": "5分で作った超テキトーリソースパック",
+    "version": [ 1, 0, 0 ],
+    "uuid": "1e8cd9db-b476-4c07-bec3-b57d4bde9d56",
+    "min_engine_version": [ 1, 13, 0 ]
+  },
+  "modules": [
+    {
+      "type": "resources",
+      "description": "https://twitter.com/MarumasaJs",
+      "version": [ 1, 0, 0 ],
+      "uuid": "b77e33ea-77c9-4f7c-ae92-32a5a7faef03"
+    }
+  ]
+}
